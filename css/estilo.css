@@ -6,8 +6,9 @@
 .seccion__inicial {
     display: flex;
     gap: 20px;
-    width: 100%;
-    height: 100%;
+    width: 90%;
+    height: 90%;
+    flex-direction: column-reverse;
 }
 
 .cuadro {
